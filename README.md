@@ -19,7 +19,7 @@ Hi! I'm a Brazilian Front-End developer in progress!
 
 
 -  📍 I’m currently learning *React*;
--  🔭 I’m looking to collaborate on Front-End;
+-  🔭 I’m looking to collaborate on *Html* and *Css*;
 
 Here on **GitHub** is my *portfolio*.
 
