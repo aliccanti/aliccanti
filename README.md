@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 ### :sparkles:About Me
 -  👩‍💻 I started in the programming universe in 2020;
--  ❤️ Front-end Developer;
--  
+-  ❤️ The Sims 2 | Cats;
 
 ### 📒 My study goals
 
@@ -27,3 +26,10 @@ Here are some ideas to get you started:
 - [ ] ReactJS;
 - [ ] Angular;
 
+### 📫  Contact me
+
+ <a href="https://www.linkedin.com/in/alice-cavalcanti-614b77173/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
+
+
+
+[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
