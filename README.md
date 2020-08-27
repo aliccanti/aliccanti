@@ -1,4 +1,4 @@
-### Hello, world! This is my profile!  👩‍💻 ✨
+### Hello, world! I'm Alice! 
 
 <!--
 **aliccanti/aliccanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I'm a Brazilian Front-End developer in progress! 
+### :sparkles:About Me
+-  👩‍💻 I started in the programming universe in 2020;
+-  ❤️ Front-end Developer;
+-  
 
+### 📒 My study goals
 
+- [X] HTML&CSS;
+- [ ] Web Responsive;
+- [ ] JavaScript;
+- [ ] ReactJS;
+- [ ] Angular;
 
--  📍 I’m currently learning *React*;
--  🔭 I’m looking to collaborate on *Html* and *Css*;
-
-Here on **GitHub** is my *portfolio*.
-
-
-### You can also find me at:
-
-[LinkedIn] (https://www.linkedin.com/in/alice-cavalcanti-614b77173/)
