@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 📒 My study goals
 
 - [X] HTML&CSS;
-- [ ] Web Responsive;
+- [X] Web Responsive;
 - [ ] JavaScript;
 - [ ] ReactJS;
 - [ ] Angular;
