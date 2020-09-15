@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - [X] HTML&CSS;
 - [X] Web Responsive;
-- [ ] JavaScript;
+- [X] JavaScript;
 - [ ] ReactJS;
 - [ ] Angular;
 
