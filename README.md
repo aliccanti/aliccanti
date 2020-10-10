@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 -->
 
 ### :sparkles:About Me
+
 -  👩‍💻 I started in the programming universe in 2020;
--  ❤️ The Sims 2 | Cats;
+-  📒 I’m currently studying ReactJS;
+- 🦾 I'm looking to help with HTML&CSS and Programming logic;
+-  ❤️ The Sims 2 | Cats | Shera and the princesses of power;
 
 ### 📒 My study goals
 
