@@ -32,7 +32,10 @@ Here are some ideas to get you started:
 ### 📫  Contact me
 
  <a href="https://www.linkedin.com/in/alice-cavalcanti-614b77173/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
-
-
-
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
+ 
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliccanti&hide=contribs,issues&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliccanti&layout=compact&theme=dracula" />
+</a>
