@@ -21,13 +21,6 @@ Here are some ideas to get you started:
 - 🦾 I'm looking to help with HTML&CSS and Programming logic;
 -  ❤️ The Sims 2 | Cats | Shera and the princesses of power;
 
-### 📒 My study goals
-
-- [X] HTML&CSS;
-- [X] Web Responsive;
-- [X] JavaScript;
-- [ ] ReactJS;
-- [ ] Angular;
 
 ### 📫  Contact me
 
