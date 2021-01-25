@@ -16,15 +16,17 @@ Here are some ideas to get you started:
 
 ### :sparkles:About Me
 
--  👩‍💻 I started in the programming universe in 2020;
--  📒 I’m currently studying ReactJS;
-- 🦾 I'm looking to help with HTML&CSS and Programming logic;
+-  👩‍💻 Junior Systems Engineer at Indra;
+-  🚀 Learning about Laravel — PHP;
 -  ❤️ The Sims 2 | Cats | Shera and the princesses of power;
 
+### Tech Stack
 
-### 📫  Contact me
+- 🛢 MySQL;
+- 🌐 HTML | CSS | JavaScript;
+- 🎲 PHP;
+-  📎 Git;
 
- <a href="https://www.linkedin.com/in/alice-cavalcanti-614b77173/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
  
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliccanti&hide=contribs,issues&show_icons=true&theme=dracula" />
