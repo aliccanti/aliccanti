@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 ### :sparkles:About Me
 
 -  👩‍💻 Junior Systems Engineer at Indra;
--  🚀 Learning about PHP — Laravel;
+-  🚀 Learning about PHP;
 -  ❤️ The Sims 2 | Cats | Shera and the princesses of power;
 
 ### 🔭 Tech Stack
 
-- 🛢 MySQL;
-- 🌐 HTML | CSS | JavaScript;
 -  📎 Git;
 
  
