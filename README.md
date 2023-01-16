@@ -14,20 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :sparkles:About Me
+### :sparkles: Sobre mim
 
--  👩‍💻 Junior Systems Engineer at Indra;
--  🚀 Learning about PHP;
--  ❤️ The Sims 2 | Cats | Shera and the princesses of power;
+-  🔭 Na área de tecnologia desde 2021;
+-  👩‍💻 Desenvolvedora BackEnd na FreteBras;
+-  🚀 Estudante do curso de graduação Analíse e Desenvolvimento de Sistemas na faculdade Senac;
+-  ❤️ The Sims 2 | Cats | The Last Of Us;
 
 ### 🔭 Tech Stack
 
--  📎 Git;
-
- 
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliccanti&hide=contribs,issues&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliccanti&layout=compact&theme=dracula" />
-</a>
+-  Git e Github;
+-  MySQL;
+-  MongoDB;
+-  PHPUnit;
+-  Laravel;
+-  Docker;
+-  Linux;
