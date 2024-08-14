@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 ### :sparkles: Sobre mim
 
 -  🔭 Na área de tecnologia desde 2021;
--  👩‍💻 Desenvolvedora BackEnd na FreteBras;
--  🚀 Estudante do curso de graduação Analíse e Desenvolvimento de Sistemas na faculdade Senac;
+-  👩‍💻 Desenvolvedora BackEnd PHP;
 -  ❤️ The Sims 2 | Cats | The Last Of Us;
 
 ### 🔭 Tech Stack
